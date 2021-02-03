@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 sept. 2020, 11:51:42
+    Author     : rleroy
+*/
+
+body{
+    margin: 0px;
+      
+}
+div>div{
+    width: 50%;
+    height: 50%;
+    position:fixed;
+}
+
+.cadreHautGauche{
+    background: orange;
+    
+
+
+}
+.cadreHautDroit{
+    background: yellow;
+    left: 10%;
+    bottom: 40%;
+
+}
+.cadreBasGauche{
+    background: blue;
+    left:20%;
+    bottom: 30%;
+
+}
+.cadreBasDroit{
+    background: violet;
+    bottom: 20%;
+    left: 30%;
+
+}

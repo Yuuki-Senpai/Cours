@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 sept. 2020, 11:24:59
+    Author     : rleroy
+*/
+.cadreCivilite{
+    text-align: center;
+}
+
+.photo{
+    position: absolute;
+    height: 100px;
+    left: 140px;
+    top: 10px;
+}
+.nomPrenom{
+    font-weight: bolder;    
+}
+.adresse{
+    font-weight: lighter;
+}
+
+.ageTel{
+     font-weight: lighter;
+}
+
+.courriel{
+    color: purple;
+}
+
+.typeStage{
+    font-weight: bold;
+}
+.cadreFormation{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #d9d9d9;
+       
+}
+.titreRubrique{
+    border-bottom: black solid 5px;
+    border-top: black solid 5px;
+}
+
+.diplome{
+    text-align: left;
+}
+.detailDiplome{
+    top: -20px;
+    left: -58px;
+    position:relative;
+    
+}
+.titreRubrique{
+    text-align: center;
+    width: 1249px;
+    height: 20px;
+    display: block;
+}
+
+.cadreExperience{
+    background-color:#bfbfbf;
+
+}
+
+.cadreCompetences{
+    background-color: #b3b3b3;
+}
+.anneeExperience{
+    font-weight: bold;
+}
+.entrepriseExperience{
+    font-style: italic;
+    font-weight: bold;
+}
+.periodeExperience{
+    font-style: italic;
+}
+.descriptionExperience{
+    display: list-item;
+    margin-left: 30px;
+    list-style-type:square;
+}
+
+.competence{
+    display: list-item;
+    font-weight: bold;
+}
+.detailCompetence{
+    font-weight: normal;
+}

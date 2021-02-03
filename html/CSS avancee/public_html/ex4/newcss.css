@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 sept. 2020, 10:50:24
+    Author     : rleroy
+*/
+
+.bouge{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin: 20px;
+    position: absolute;
+}
+
+.bouge:active{
+    animation: slide 4s infinite linear  0s;
+    
+}
+
+@keyframes slide {
+    from {left:0px; top:0px}
+    to {left:400px; top:0px}
+}

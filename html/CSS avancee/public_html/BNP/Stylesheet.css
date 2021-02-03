@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 sept. 2020, 11:20:02
+    Author     : rleroy
+*/
+
+header{
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header>p{
+    color: white;
+}
+.horizontalnavbar{
+    
+    background: black;
+    width: 250px;
+    
+}
+.horizontalnavbar>div{
+    color: white;
+    border: white solid 1px;
+    
+}
+.titre{
+    
+    margin-bottom: 20px;
+}
+.titremin{
+    position: absolute;
+    top: 80px;
+    left: 286px;
+        
+}
+
+.degrade{
+    position: absolute;
+    height: 625px;
+    width: 1320px;
+    background: black;
+    top: 140px;
+    left: 260px;
+        
+}
+img{
+    position: absolute;
+}

@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 sept. 2020, 14:54:22
+    Author     : rleroy
+*/
+
+.degradeLineaire{
+    width: 100px;
+    height: 100px;
+    display: block;
+    background: linear-gradient(to left,blue,white);
+}
+
+.degradeRadial{
+    width: 100px;
+    height: 100px;
+    display:block;
+    background: radial-gradient(white,green);
+}

@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 sept. 2020, 13:57:24
+    Author     : rleroy
+*/
+body{
+    background-color: aquamarine
+}
+
+div>img{
+    position: absolute;
+}
+
+.un{
+    z-index: 1;
+    left: 115px;
+    bottom: 54px;
+}
+.deux{
+    z-index: 2;
+    left: 139px;
+    bottom: 72px;
+}
+.trois{
+    z-index: 3;
+    left: 148px;
+    bottom: 100px;
+}
+.quatre{
+    z-index: 4;
+    left: 139px;
+    bottom: 128px;
+}
+.cinq{
+    z-index: 5;
+    left: 115px;
+    bottom: 146px;
+}
+.six{
+    z-index: 6;
+    left: 85px;
+    bottom: 146px;
+}
+.sept{
+    z-index: 7;
+    left: 61px;
+    bottom: 128px;
+}
+.huit{
+    z-index: 8;
+    left: 52px;
+    bottom: 100px;
+}
+.neuf{
+    z-index: 9;
+    left: 61px;
+    bottom: 72px;
+}
+.dix{
+    z-index: 10;
+    left: 85px;
+    bottom: 54px;
+}
